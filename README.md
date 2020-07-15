@@ -5,3 +5,25 @@ I’m a student who from Taiwan. I enjoy coding and I have developed a few proje
 Name: 康皓雄 Hao-Hsiung Kang
 <br>
 Nickname: 康康 Dogbone
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dogbone0714&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
+
+## <img src="https://raw.githubusercontent.com/Dogbone0714/Dogbone0714/master/images/svg/social/users-solid.svg" height="24px" alt="Social"> Social
+<a href="https://thssa.nctu.me/">
+  <img src="https://raw.githubusercontent.com/Dogbone0714/Dogbone0714/master/images/svg/social/home-solid.svg" height="16px" alt="Website"> Website
+</a>
+<br>
+<a href="https://www.facebook.com/Dogbone0714">
+  <img src="https://raw.githubusercontent.com/Dogbone0714/Dogbone0714/master/images/svg/social/facebook-brands.svg" height="16px" alt="Facebook"> Facebook
+</a>
+<br>
+<a href="https://twitter.com/Dogbone0714">
+  <a href="https://discord.gg/BXHtxvG">
+  <img src="https://raw.githubusercontent.com/Dogbone0714/Dogbone0714/master/images/svg/social/discord-brands.svg" height="16px" alt="Discord"> Discord
+</a>
+  
+## <img src="https://raw.githubusercontent.com/Dogbone0714/Dogbone0714/master/images/svg/donate/hand-holding-usd-solid.svg" height="24px" alt="Donate"> Donate
+
+<a href="https://www.paypal.me/Dogbone0714">
+  <img src="https://raw.githubusercontent.com/Dogbone0714/Dogbone0714/master/images/svg/donate/paypal-brands.svg" height="16px" alt="PayPal"> PayPal
+</a>
